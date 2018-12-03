@@ -13,4 +13,7 @@ public class GitTest{
 		return tester;
 	}
 
+	public void setString(){
+	}
+
 }
